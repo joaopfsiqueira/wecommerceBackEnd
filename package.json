@@ -5,6 +5,7 @@
   "description": "Backend off site wecommerce",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon server.js",
     "test": "nodemon server.js"
   },
   "author": "João Siqueira",
