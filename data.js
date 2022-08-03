@@ -20,7 +20,7 @@ const data = {
             price: 350,
             countIStock: 20,
             brand: 'Activision',
-            rating: 3,
+            rating: 3.5,
             numReviews: 10,
             description: 'Call of Duty Vanguard PS5, 2022 game',
 
