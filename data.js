@@ -43,7 +43,7 @@ const data = {
             category: 'PS5',
             image: '/images/ps5.jpg',
             price: 5000,
-            countInStock: 1,
+            countInStock: 0,
             brand: 'Sony',
             rating: 5,
             numReviews: 10,
